@@ -21,4 +21,4 @@ if not WHITELIST[LocalPlayer.Name] then
 end
 
 -- 通过验证
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Outlierdwc/DCNB/refs/heads/main/DCNB66"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Outlierdwc/DCDNB/refs/heads/main/DC"))()
