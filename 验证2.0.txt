@@ -7,6 +7,7 @@ local WHITELIST = {
     ["alqpzm6666"] = true,
     ["skcbdxkxchcb"] = true,
     ["Q_WQ6"] = true,
+    ["fanhuiwen"] = true,
 }
 
 -- 群组验证
