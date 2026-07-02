@@ -8,7 +8,7 @@ local WHITELIST = {
     ["skcbdxkxchcb"] = true,
     ["Q_WQ6"] = true,
     ["fhwdxg1"] = true,
-    ["ZXAUGTY"] = true,
+    ["ZXAUGTYW"] = true,
 }
 
 -- 群组验证
