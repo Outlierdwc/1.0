@@ -11,6 +11,7 @@ local WHITELIST = {
     ["ZXAUGTYW"] = true,
     ["Yourking1856"] = true,
     ["gvfx47"] = true,
+    ["alqpzm8888"] = true,
 }
 
 
