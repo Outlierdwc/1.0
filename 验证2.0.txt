@@ -15,7 +15,6 @@ local WHITELIST = {
 }
 
 
-
 -- 群组验证
 if not LocalPlayer:IsInGroup(GROUP_ID) then
     LocalPlayer:Kick("你没有购买此脚本，请你去购买")
